@@ -1,20 +1,7 @@
-# Node.js
 node_modules/
-
-# Compiled binary addons (if any)
 /build/
-
-# macOS
 .DS_Store
-
-# JetBrains IDEs
 .idea/
-
-# Visual Studio Code
 .vscode/
-
-# Log files
 *.log
-
-# Compiled output
 *.svg
