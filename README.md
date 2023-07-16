@@ -26,6 +26,8 @@
  4. Install inquirer ('npm i inquirer@8.2.4') and jest ('npm i jest') if not already done
  5. Within the terminal type 'node index.js' to run program
 
+    
+
   ## User Story & Acceptance Criteria
 ```
 AS a freelance web developer
@@ -56,6 +58,9 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
   Jest unit test scripts for basic shape validate; manual testing </br>
   Once you are in project directory run ```npx jest``` to view results</br>
   Test scripts are located at ```../lib/tests```
+  
+https://github.com/betheng/svg-logoMaker/assets/131614496/3b7195f0-2696-4d69-a2e1-f03449bc968b
+
 
   ## Contributors
   Created by GitHub user(s): betheng
