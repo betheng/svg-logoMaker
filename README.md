@@ -8,7 +8,7 @@
   - [Description](#description)
   - [Live_Site_and_Code_Repository](#live_site_and_code_repository)
   - [Installation](#installation)
-  - [Usage](#usage)
+  - [User Story and Acceptance Criteria](#User_Story_and_Acceptance_Criteria)
   - [License](#license)
   - [Tests](#tests)
   - [Contributors](#contributors)
@@ -26,6 +26,8 @@
  4. Install inquirer ('npm i inquirer@8.2.4') and jest ('npm i jest') if not already done
  5. Within the terminal type 'node index.js' to run program
 
+
+https://github.com/betheng/svg-logoMaker/assets/131614496/4d17e933-42bc-4442-ba8b-3290c97e0191
     
 
   ## User Story & Acceptance Criteria
